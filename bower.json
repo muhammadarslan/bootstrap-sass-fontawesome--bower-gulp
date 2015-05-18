@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-sass-fontawesome-bower-gulp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/muhammadarslan/bootstrap-sass-fontawesome--bower-gulp.git",
+  "authors": [
+    "Muhammad Arslan <arslan_mecom@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3",
+    "fontawesome": "~4.3.0"
+  }
+}
